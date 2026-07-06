@@ -100,3 +100,6 @@ Developed as part of a **DSBDA (Data Science & Big Data Analytics) project**.
 ## ⭐ Contribute
 
 Feel free to fork this repo, raise issues, or submit pull requests to improve the project!
+
+## 🚀 Live Demo
+https://covid-analysis-jkqomcqoxyycpobjlfjztw.streamlit.app/
